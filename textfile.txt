@@ -1,1 +1,1 @@
-this is a text. new commit.
+this is a text. new commit. this is new buddy.
